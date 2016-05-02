@@ -12,7 +12,7 @@ from getpass import getpass
 import sys
 
 while True:
-    list_of_numbers = ['9445987950'] ###Enter the mobile numbers
+    list_of_numbers = [] ###Enter the mobile numbers
     username = raw_input('Enter Your Registered Mobile Number: ')
     password = getpass()
     message_to_send = raw_input('Enter the message: ')
