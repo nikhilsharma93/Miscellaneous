@@ -4,7 +4,7 @@ billiard==3.3.0.23
 cycler==0.10.0
 dlib==18.17.100
 image==1.4.4
-numpy==1.10.1
+numpy==1.21.0
 Pillow==6.2.0
 pyparsing==2.1.1
 python-dateutil==2.5.3
